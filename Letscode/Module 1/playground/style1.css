@@ -1,0 +1,53 @@
+* { margin: 0mm;
+    padding: 0mm;
+
+}
+h1 {
+    color: #bd1313;
+    text-align: center;
+    
+}
+.borde {
+    border: 3px solid brown;
+    border-width: 3px;
+    border-style: solid;
+    border-color: brown;
+}
+body {
+    background: url(https://communicatio.com.ar/wp-content/uploads/2017/03/04.jpeg);
+}
+h2 {
+    color: white;
+    text-align: left;
+    background-color: black;
+}
+h3 {
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+h4 {
+    color: white;
+    text-align: right;
+    background-color: black;
+}
+h5 {
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+h6 {
+    color: white;
+    text-align: left;
+    background-color: black;
+    padding-top: 30px;
+}
+.texto {
+    text-align: center;
+}
+p {
+    color: black;
+    background-color: cornsilk;
+    text-align: center;
+    margin: 10px 0px;
+}
